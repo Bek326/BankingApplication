@@ -1,0 +1,16 @@
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/bin/Debug/net5.0/BankingApplication
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/bin/Debug/net5.0/BankingApplication.deps.json
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/bin/Debug/net5.0/BankingApplication.runtimeconfig.json
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/bin/Debug/net5.0/BankingApplication.runtimeconfig.dev.json
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/bin/Debug/net5.0/BankingApplication.dll
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/bin/Debug/net5.0/ref/BankingApplication.dll
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/bin/Debug/net5.0/BankingApplication.pdb
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.csproj.AssemblyReference.cache
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.AssemblyInfoInputs.cache
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.AssemblyInfo.cs
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.csproj.CoreCompileInputs.cache
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.dll
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/ref/BankingApplication.dll
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.pdb
+/home/thedarkknight/RiderProjects/BankingApplication/BankingApplication/obj/Debug/net5.0/BankingApplication.genruntimeconfig.cache
